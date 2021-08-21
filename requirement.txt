@@ -1,0 +1,5 @@
+imdbpy
+pandas
+numpy
+matplotlib
+seaborn
